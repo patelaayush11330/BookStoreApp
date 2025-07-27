@@ -7,6 +7,7 @@ import Slider from "react-slick";
 import axios from "axios";
 
 import Cards from "./Cards";
+
 function Freebook() {
   const [book, setBook] = useState([]);
   useEffect(() => {
@@ -62,11 +63,13 @@ function Freebook() {
     <>
       <div className=" max-w-screen-2xl container mx-auto md:px-20 px-4">
         <div>
-          <h1 className="font-semibold text-xl pb-2">Free Offered Courses</h1>
+          <h1 className="font-semibold text-xl pb-2">Free Offered Courses:</h1>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-            Accusantium veritatis alias pariatur ad dolor repudiandae eligendi
-            corporis nulla non suscipit, iure neque earum?
+          At Nepal Bookstore, we believe in empowering minds beyond books. 
+          That’s why we offer a selection of free online courses to help you learn new skills, grow academically, and explore your passions. 
+          From language learning and literature to technology and business, our free courses are designed for curious learners of all ages. 
+          <br/>
+          <span className="text-pink-600">"Start learning today—no cost, just knowledge!"</span>
           </p>
         </div>
 

@@ -1,5 +1,6 @@
 import React from "react";
 import banner from "../../public/Banner.png";
+import banner1 from "../../public/Banner1.png";
 function Banner() {
   return (
     <>
@@ -7,13 +8,16 @@ function Banner() {
         <div className="w-full order-2 md:order-1 md:w-1/2 mt-12 md:mt-36">
           <div className="space-y-8">
             <h1 className="text-2xl md:text-4xl font-bold">
-              Hello, welcomes here to learn something{" "}
-              <span className="text-pink-500">new everyday!!!</span>
+            Welcome to Nepal Bookstore {" "}
+            
+              <span className="text-pink-600">"Your Gateway to Knowledge and Culture"</span>
             </h1>
             <p className="text-sm md:text-xl">
-              Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolor,
-              et totam. Tempora amet atque expedita, quae corrupti totam sed
-              pariatur corporis at veniam est voluptas animi!
+            Nestled in the heart of the Himalayas, Nepal Bookstore is your one-stop online destination for books that inspire, educate, and entertain. Whether you're a student, a passionate reader, or a curious soul, we bring you a curated collection of books across all genres—from Nepali literature and history to international bestsellers, academic texts, and children’s stories.
+            At Nepal Bookstore, we believe that every book has the power to open minds and connect worlds. </p>
+            <p className="text-sm md:text-xl">
+             Our platform is designed to make reading accessible and enjoyable for everyone, with easy navigation, detailed book descriptions, and secure delivery all across Nepal.
+             Explore our shelves, discover your next favorite read, and become a part of Nepal’s growing community of readers. Happy reading!
             </p>
             <label className="input input-bordered flex items-center gap-2">
               <svg
@@ -33,7 +37,13 @@ function Banner() {
         <div className=" order-1 w-full mt-20 md:w-1/2">
           <img
             src={banner}
-            className="md:w-[550px] md:h-[460px] md:ml-12"
+            className="md:w-[550px] md:h-[400px] md:ml-12"
+            alt=""
+          />
+          <br className="hidden md:block" />
+          <img
+            src={banner1}
+            className="md:w-[550px] md:h-[400px] md:ml-12"
             alt=""
           />
         </div>

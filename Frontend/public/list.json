@@ -1,0 +1,147 @@
+[
+    {
+        "id": 1,
+        "name": "Sonali",
+        "title": "A Book of Books",
+        "description": "A collection that compiles thirteen compelling reasons to read, reflecting the author's deep love for books. This work serves as a reading recommendation guide and a celebration of literature.",
+        "price": 100,
+        "category": "Fiction", 
+        "image": "./Book1.png"
+    },
+    {
+        "id": 2,
+        "name": "Prabhupada",
+        "title": "Bhagavad Gita As It Is",
+        "description": "A spiritual scripture central to Hindu philosophy, this edition presents the teachings of Lord Krishna to Arjuna on the battlefield of Kurukshetra, with commentary by Swami Prabhupada.",
+        "price": 220,
+        "category": "Religion", 
+        "image": "./Book2.png"
+    },
+    {
+        "id": 3,
+        "name": "Ekisha",
+        "title": "Chhath",
+        "description": "A cultural and spiritual exploration of the Chhath festival, emphasizing the worship of the Sun God and the connection to environmental awareness and devotion.",
+        "price": 330,
+        "category": "Religion", 
+        "image": "./Book3.png"
+    },
+    {
+        "id": 4,
+        "name": "Keigo",
+        "title": "Invisible Helix",
+        "description": "A mystery thriller from the Detective Galileo series, combining scientific curiosity with gripping suspense and clever plot twists.",
+        "price": 230,
+        "category": "Fiction", 
+        "image": "./Book4.png"
+    },
+    {
+        "id": 5,
+        "name": "Namita",
+        "title": "Life on Mars",
+        "description": "A thought-provoking collection of short stories that blend the real with the surreal, exploring human emotions, aspirations, and imagination across different settings.",
+        "price": 120,
+        "category": "Fiction", 
+        "image": "./Book5.png"
+    },
+    {
+        "id": 6,
+        "name": "Harari",
+        "title": "21 Lessons for the 21st Century",
+        "description": "This thought-provoking book explores the most pressing issues facing our modern world, from technological disruption and climate change to nationalism and fake news. Harari offers insights and reflections to help readers navigate the complexities of the 21st century.",
+        "price": 340,
+        "category": "Fiction", 
+        "image": "./Book6.png"
+    },
+    {
+        "id": 7,
+        "name": "Radhika",
+        "title": "Fire on the Ganges",
+        "description": "A compelling account of the sacred and spiritual life in Varanasi, centered on the lives of those who work and dwell around the cremation ghats. This book blends investigative journalism with cultural commentary.",
+        "price": 210,
+        "category": "Fiction", 
+        "image": "./Book7.png"
+    },
+    {
+        "id": 8,
+        "name": "Geronimo",
+        "title": "Cavemice",
+        "description": "A fun and adventurous children's story set in prehistoric times, where Geronimo Stilton and his friends must solve the mystery of a stolen magical pearl. Packed with humor and colorful illustrations.",
+        "price": 100,
+        "category": "Kids", 
+        "image": "./Book8.png"
+    },
+    {
+        "id": 9,
+        "name": "Enid",
+        "title": "The Famous Five",
+        "description": "In this classic tale of mystery and adventure, the Famous Five return to Kirrin Island, where they uncover strange happenings and secret research. A timeless favorite for young readers.",
+        "price": 250,
+        "category": "Kids", 
+        "image": "./Book9.png"
+    },
+    {
+        "id": 10,
+        "name": "Robert T. ",
+        "title": "Be Rich and Happy",
+        "description": "This book aims to help readers develop new habits for financial and emotional success. It is authored by the creator of Rich Dad, Poor Dad and blends financial wisdom with personal development.",
+        "price": 270,
+        "category": "Finance", 
+        "image": "./Book10.png"
+    },
+    {
+        "id": 11,
+        "name": "Sundeep",
+        "title": "Crypto Storm",
+        "description": "This book explores the rise of cryptocurrency in India, detailing how the nation became a pivotal force in the global crypto movement. It discusses the financial, political, and technological factors that fueled this revolution.",
+        "price": 200,
+        "category": "Finance", 
+        "image": "./Book11.png"
+    },
+    {
+        "id": 12,
+        "name": "Ruskin",
+        "title": "7 Khoon Maaf ",
+        "description": "A gripping psychological tale about Susanna, a woman who marries seven times and is suspected of murdering each of her husbands. The book was adapted into a popular Bollywood film and includes the screenplay by Vishal Bhardwaj and Matthew Robbins.",
+        "price": 100,
+        "category": "Thriller", 
+        "image": "./Book12.png"
+    },
+    {
+        "id": 13,
+        "name": "Prabhupada",
+        "title": "Bhagavad Gita As It Is",
+        "description": "A spiritual scripture central to Hindu philosophy, this edition presents the teachings of Lord Krishna to Arjuna on the battlefield of Kurukshetra, with commentary by Swami Prabhupada.",
+        "price": 0,
+        "category": "Free", 
+        "image": "./Book2.png"
+    },
+    {
+        "id": 14,
+        "name": "Ekisha",
+        "title": "Chhath",
+        "description": "A cultural and spiritual exploration of the Chhath festival, emphasizing the worship of the Sun God and the connection to environmental awareness and devotion.",
+        "price": 0,
+        "category": "Free", 
+        "image": "./Book3.png"
+    },
+    {
+        "id": 15,
+        "name": "Keigo",
+        "title": "Invisible Helix",
+        "description": "A mystery thriller from the Detective Galileo series, combining scientific curiosity with gripping suspense and clever plot twists.",
+        "price": 0,
+        "category": "Free", 
+        "image": "./Book4.png"
+    },
+    {
+        "id": 16,
+        "name": "Namita",
+        "title": "Life on Mars",
+        "description": "A thought-provoking collection of short stories that blend the real with the surreal, exploring human emotions, aspirations, and imagination across different settings.",
+        "price": 0,
+        "category": "Free", 
+        "image": "./Book5.png"
+    }
+    
+]
