@@ -88,10 +88,3 @@ Built using the **MERN stack**—MongoDB, Express.js, React.js, and Node.js—th
 | React Hot Toast  | Toast notifications         |
 | React Router DOM | Client-side routing         |
 | React Hook Form  | Form handling & validation  |
-
-📷 Screenshots (Optional)
-       
-
-
-
-
